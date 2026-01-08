@@ -1,2 +1,21 @@
-# Skyking
-LearningHack
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Security Checker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:Arial; background:#111; color:#eee; padding:20px;">
+
+<h2>🛡️ Mobile Security Checker</h2>
+<p>This is an educational security awareness tool.</p>
+
+<ul>
+  <li>✔️ No password collection</li>
+  <li>✔️ No login required</li>
+  <li>✔️ For students only</li>
+</ul>
+
+<p><b>Disclaimer:</b> This site does NOT collect any personal data.</p>
+
+</body>
+</html>
